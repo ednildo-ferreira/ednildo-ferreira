@@ -67,11 +67,12 @@ Desenvolvo e implemento fluxos de automação avançados, integrações complexa
 
 ---
 
-### 📊 Estatísticas do GitHub:
+### 📊 Métricas & Atividade no GitHub:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ednildo-ferreira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ednildo-ferreira&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
+  <img src="https://img.shields.io/github/followers/ednildo-ferreira?label=Seguidores&style=for-the-badge&logo=github&color=0e7490" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/ednildo-ferreira/n8n-portfolio?label=Estrelas%20Portf%C3%B3lio&style=for-the-badge&logo=github&color=2563eb" alt="Stars" />
+  <img src="https://img.shields.io/github/last-commit/ednildo-ferreira/n8n-portfolio?label=%C3%9Altimo%20Commit&style=for-the-badge&logo=git&color=10b981" alt="Último Commit" />
 </p>
 
 ---
