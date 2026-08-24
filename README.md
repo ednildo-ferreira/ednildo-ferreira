@@ -17,7 +17,7 @@ Desenvolvo e implemento fluxos de automação avançados, integrações complexa
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:contato@ednildo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-contato%40ednildo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://wa.me/5511954895248" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
@@ -61,7 +61,7 @@ Desenvolvo e implemento fluxos de automação avançados, integrações complexa
 | Projeto | Descrição | Stack Principal |
 | :--- | :--- | :--- |
 | 💆 **[Agente de IA para SPA](https://github.com/ednildo-ferreira/n8n-portfolio/blob/main/projetos/41-atendimento-spa-ia.md)** | Atendimento inteligente via WhatsApp com transcrição de áudio, agendamento de sessões, geração de links de pagamento para vales e atualização de CRM. | `n8n` `LLMs` `CRM` `Webhooks` |
-| 🧠 **[Seu Conselheiro](https://github.com/ednildo-ferreira/n8n-portfolio/blob/main/projetos/02-seu-conselheiro.md)** | Assistente de mentoria e acompanhamento diário via WhatsApp com gestão de assinantes, desafios com IA e rotinas agendadas. | `n8n` `RabbitMQ` `Redis` `LLMs` |
+| 🧠 **[Seu Conselheiro](https://github.com/ednildo-ferreira/n8n-portfolio/blob/main/projetos/02-seu-conselheiro.md)** | Assistente de mentoria e acompanhamento diário via WhatsApp com gestão de assinantes, desafios com IA e cron de engajamento. | `n8n` `RabbitMQ` `Redis` `LLMs` |
 | 📖 **[Assistente Bíblico](https://github.com/ednildo-ferreira/n8n-portfolio/blob/main/projetos/01-assistente-biblico.md)** | Agente de IA para WhatsApp com retenção de memória conversacional longa no Redis e guardrails de segurança. | `n8n` `Redis Memory` `LLMs` |
 | 🐳 **[Infraestrutura Swarm & Automações](https://github.com/ednildo-ferreira/n8n-portfolio)** | Orquestração e deploy de serviços em clusters Linux com Docker Swarm e rotinas de manutenção orientadas por IA. | `Docker Swarm` `Linux` `SSH` |
 
