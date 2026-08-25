@@ -14,7 +14,7 @@ Desenvolvo e implemento fluxos de automação avançados, integrações complexa
 
 <p align="left">
   <a href="https://ednildo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-ednildo.com-0e7490?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-0e7490?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://linkedin.com/in/ednildo-ferreira" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
