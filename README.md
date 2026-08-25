@@ -67,16 +67,6 @@ Desenvolvo e implemento fluxos de automação avançados, integrações complexa
 
 ---
 
-### 📊 Métricas & Atividade no GitHub:
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/ednildo-ferreira?label=Seguidores&style=for-the-badge&logo=github&color=0e7490" alt="Seguidores" />
-  <img src="https://img.shields.io/github/stars/ednildo-ferreira/n8n-portfolio?label=Estrelas%20Portf%C3%B3lio&style=for-the-badge&logo=github&color=2563eb" alt="Stars" />
-  <img src="https://img.shields.io/github/last-commit/ednildo-ferreira/n8n-portfolio?label=%C3%9Altimo%20Commit&style=for-the-badge&logo=git&color=10b981" alt="Último Commit" />
-</p>
-
----
-
 <p align="center">
   <i>Construído com foco em automação resiliente e inteligência artificial aplicada.</i>
 </p>
